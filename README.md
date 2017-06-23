@@ -36,8 +36,11 @@ print "similarity(%s, %s)=%g" % (word1, word3, sim)
 - 方法二：在word_similarity/ 路径外运行代码。
 
 1.将 word-similarity/ 目录添加到系统路径下。
+
 cd /usr/local/python/lib/python2.7/site-packages/
+
 vim word_similarity.pth
+
 写入： your-path-of/word_similarity/
 
 2.然后按照下面代码运行
