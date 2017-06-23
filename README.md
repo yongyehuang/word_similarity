@@ -30,6 +30,7 @@ sim = sim4words(word1, word3)
 print "similarity(%s, %s)=%g" % (word1, word3, sim)
 ```
 > similarity(足球, 运动)=0.8
+
 > similarity(足球, 苹果)=0.186047
 
 - 方法二：在word_similarity/ 路径外运行代码。
