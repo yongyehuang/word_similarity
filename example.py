@@ -4,7 +4,7 @@ from src.wordsimilarity import sim4words
 
 """
 基于《知网》的词汇语义相似度计算
-实例代码。
+示例代码。
 """
 
 if __name__ == "__main__":
